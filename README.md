@@ -30,7 +30,7 @@
 <a href="https://instagram.com/m.saeid721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.saeid721" height="30" width="40" /></a>
 <a href="https://medium.com/@saeid721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saeid721" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/saeid721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saeid721" height="30" width="40" /></a>
-<a href="/https://flutterbangla.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://flutterbangla.blogspot.com" height="30" width="40" /></a>
+<a href="https://flutterbangla.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://flutterbangla.blogspot.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
