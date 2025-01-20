@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeid721&label=Profile%20views&color=0e75b6&style=flat" alt="saeid721" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeid721" alt="saeid721" /></a> </p>
+//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeid721" alt="saeid721" /></a> </p>
 
 - 🔭 I’m currently working on [Sonargaon University App](https://github.com/zachaicom/su_apps)
 
